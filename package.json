@@ -1,0 +1,20 @@
+{
+  "name": "@otoniel19/shell",
+  "version": "1.0.0",
+  "description": "shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoniel19/shell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otoniel19/shell/issues"
+  },
+  "homepage": "https://github.com/otoniel19/shell#readme"
+}
